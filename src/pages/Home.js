@@ -39,7 +39,7 @@ const Home = () => {
     <div className="homePageWrapper">
       <div className="formWrapper">
         <img
-          src="/code-sync.png"
+          src="/code-sync-2.png"
           alt="code-sync-logo"
           className="homePageLogo"
         ></img>
@@ -75,7 +75,9 @@ const Home = () => {
       <footer>
         <h4>
           Built with 💛&nbsp;by &nbsp;
-          <a href="https://github.com/Paryank0419">Paryank Namdeo</a>
+          <a href="https://github.com/Paryank0419">Paryank Namdeo</a>, &nbsp;
+          <a href="https://github.com/Nancysahu0609">Nancy Sahu</a> & &nbsp;
+          <a href="https://github.com/OMMEENA">Om Maina</a>
         </h4>
       </footer>
     </div>
