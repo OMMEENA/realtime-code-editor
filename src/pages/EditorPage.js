@@ -84,7 +84,7 @@ const EditorPage = () => {
       <div className="aside">
         <div className="asideInner">
           <div className="logo">
-            <img src="/code-sync.png" alt="logo" className="logoImage" />
+            <img src="/code-sync-2.png" alt="logo" className="logoImage" />
           </div>
           <h3>Connected</h3>
           <div className="clientsList">
